@@ -1308,7 +1308,8 @@ section.lazy-placeholder:after {
 .cid-reoPLRtfMI {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
+  background: linear-gradient(45deg, #efefef, #ffffff);
 }
 .cid-reoPLRtfMI .mbr-section-subtitle {
   color: #767676;
